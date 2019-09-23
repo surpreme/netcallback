@@ -1,6 +1,6 @@
 # netcallback
 框架搭建
-1.0
+1.0.0
 对okhttp解析JSON添加了框架封装;
 对fragment与activity通信添加的封装方法；
 1.0.1
